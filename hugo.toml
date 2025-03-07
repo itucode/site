@@ -1,0 +1,70 @@
+baseURL = '/'
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = 'ItuCode'
+theme = "mainroad"
+
+[Params]
+  authorbox = true
+  description = "Blog sobre tecnologia e desenvolvimento."
+  showReadingTime = true
+  showShareButtons = true
+  mainSections = ["posts", "docs"]
+  showSummary = true
+  customCSS = ["css/custom.css"]
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false 
+  pager = true
+  opengraph = true
+  post_meta = ["date", "categories"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+
+[pagination]
+  disableAliases = true
+  pagerSize = 10
+  path = 'page'
+
+[Params.author]
+    name = "ItuCoder"
+    avatar = "img/cyber-hacker.jpg" # Caminho relativo ao diretório "static"
+    bio = "Desenvolvedor de software apaixonado por tecnologia."
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist"]
+
+[Params.logo]
+  image = "img/logo-itucode.png"
+  title = false
+  subtitle = "Potencializando o desenvolvimento de software na cidade de Itú" #Logo subtitle
+
+[Params.style.vars]
+  highlightColor = "#1649FF"
+  fontFamilyPrimary = "'Roboto', sans-serif"
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.widgets]
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 2  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

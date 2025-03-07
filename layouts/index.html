@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<h2>Artigos recentes</h2>
+
+{{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+<article>
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p>
+    <i class="fa fa-calendar-alt" aria-hidden="true"></i>
+    <!-- Ícone de calendário -->
+    <strong>Publicação:</strong> {{ .Date.Format "2 de Janeiro de 2006" }}
+  </p>
+  <!-- Exibe a data de publicação -->
+
+  <p>{{ .Summary }}</p>
+</article>
+{{ end }} {{ end }}

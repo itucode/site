@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escalabilidade on ItuCode</title>
+    <link>/tags/escalabilidade/</link>
+    <description>Recent content in Escalabilidade on ItuCode</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/escalabilidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quando Usar um Load Balancer e os Desafios de Implementação em System Design</title>
+      <link>/posts/load-balancer-quando-usar/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/load-balancer-quando-usar/</guid>
+      <description>Entenda quando e por que implementar um load balancer em sistemas distribuídos, além dos principais desafios que você pode enfrentar durante a implementação.</description>
+    </item>
+  </channel>
+</rss>

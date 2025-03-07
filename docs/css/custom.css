@@ -1,0 +1,138 @@
+/* .logo__item.logo__imagebox {
+ 
+} 
+
+.logo__img {
+  width: 250px; 
+  height: auto; 
+}
+
+
+.logo__item.logo__text {
+  margin-bottom: 5px; 
+}
+
+
+.logo__tagline {
+  margin-top: 5px; 
+  font-size: 1rem;
+  color: #666;
+  font-weight: 400; 
+} */
+
+article p {
+  font-size: 1em; /* Aumenta o tamanho da fonte */
+  color: #333; /* Cor do texto */
+  gap: 10px; /* Espaço entre o ícone e a data */
+}
+
+article p i {
+  color: #1649ff; /* Cor do ícone */
+  font-size: 1.4em; /* Tamanho maior do ícone */
+}
+
+article p strong {
+  font-weight: bold;
+}
+/* Container do cabeçalho */
+.header__container {
+  display: flex;
+  flex-direction: column; /* Isso faz com que os itens fiquem na coluna (logo e menu em linhas separadas) */
+  align-items: center; /* Centraliza todos os itens horizontalmente */
+  width: 100%;
+}
+
+.logo {
+  padding: 10px !important;
+}
+
+.logo__img {
+  width: 250px;
+  height: auto;
+}
+
+.logo__tagline {
+  color: #666;
+  font-weight: 600;
+  padding: 5px !important;
+  margin-top: 5px !important;
+  margin-right: auto;
+}
+
+/* Logo e ícone do LinkedIn alinhados horizontalmente */
+.logo-social-container {
+  display: flex;
+  justify-content: space-between; /* Garante que o logo fique à esquerda e o ícone à direita */
+  width: 100%;
+  max-width: 1200px; /* Ajuste conforme necessário */
+  align-items: center; /* Centraliza os itens verticalmente */
+  padding: 5px; /* Ajuste a distância entre o topo e o conteúdo */
+  padding-right: 100px;
+}
+
+/* Logo */
+.logo-container {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente o logo */
+}
+
+/* Link do LinkedIn */
+.social-links {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente o ícone */
+}
+
+.social-link {
+  font-size: 34px; /* Tamanho do ícone */
+  color: #0077b5; /* Cor do LinkedIn */
+  text-decoration: none;
+}
+
+.social-link:hover {
+  color: #005582; /* Cor ao passar o mouse */
+}
+
+/* Menu */
+.menu-container {
+  width: 100%;
+  max-width: 1200px; /* Ajuste conforme necessário */
+  padding: 5px 0;
+}
+
+form {
+  max-width: 500px;
+
+  border-radius: 8px;
+  background: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #1649ff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #0d3bb8;
+}

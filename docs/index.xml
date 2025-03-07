@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ItuCode</title>
+    <link>/</link>
+    <description>Recent content on ItuCode</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre a ItuCode</title>
+      <link>/sobre/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/sobre/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;ItuCode&lt;/strong&gt; é uma comunidade de tecnologia e desenvolvimento de sistemas da cidade de &lt;strong&gt;Itu-SP&lt;/strong&gt;. Nosso objetivo é conectar desenvolvedores, entusiastas da tecnologia e profissionais da área, promovendo o compartilhamento de conhecimento e experiências.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nossa-missão&#34;&gt;Nossa Missão&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fomentar o crescimento da comunidade tech em Itu e região.&lt;/li&gt;&#xA;&lt;li&gt;Incentivar o aprendizado contínuo e a troca de conhecimento.&lt;/li&gt;&#xA;&lt;li&gt;Criar um ambiente colaborativo para desenvolvedores e profissionais de TI.&lt;/li&gt;&#xA;&lt;li&gt;Realizar meetups, workshops e eventos sobre programação, arquitetura de software e inovação.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;conecte-se-conosco&#34;&gt;Conecte-se Conosco&lt;/h2&gt;&#xA;&lt;p&gt;Fique por dentro das novidades e eventos da &lt;strong&gt;ItuCode&lt;/strong&gt; seguindo nossa página no LinkedIn:&lt;br&gt;&#xA;🔗 &lt;a href=&#34;https://www.linkedin.com/company/itucode/&#34;&gt;ItuCode no LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Load Balancer: Antes ou Depois do API Gateway?</title>
+      <link>/posts/load-balancer-api-gateway/</link>
+      <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+      <guid>/posts/load-balancer-api-gateway/</guid>
+      <description>Onde posicionar um Load Balancer na arquitetura de um sistema? Antes ou depois de um API Gateway? Essa decisão impacta escalabilidade, segurança e desempenho. Neste post, exploramos os cenários mais comuns e as melhores práticas para garantir uma arquitetura eficiente e resiliente.</description>
+    </item>
+    <item>
+      <title>Algoritmos de Balanceamento de Carga: escolhendo o Ideal para Sua Arquitetura</title>
+      <link>/posts/load-balancer-principais-algoritmos/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/load-balancer-principais-algoritmos/</guid>
+      <description>Descubra os principais algoritmos de balanceamento de carga e entenda como cada um impacta a performance, resiliência e escalabilidade de sistemas distribuídos.</description>
+    </item>
+    <item>
+      <title>Quando Usar um Load Balancer e os Desafios de Implementação em System Design</title>
+      <link>/posts/load-balancer-quando-usar/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/load-balancer-quando-usar/</guid>
+      <description>Entenda quando e por que implementar um load balancer em sistemas distribuídos, além dos principais desafios que você pode enfrentar durante a implementação.</description>
+    </item>
+    <item>
+      <title>Obrigado pelo seu contato!</title>
+      <link>/obrigado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/obrigado/</guid>
+      <description>&lt;p&gt;Recebemos sua mensagem e responderemos em breve.&lt;br&gt;&#xA;Volte para a &lt;a href=&#34;/&#34;&gt;página inicial&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
