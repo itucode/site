@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://itucode.github.io/site/'
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = 'ItuCode'

@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://itucode.github.io/site/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/sobre/</loc>
+    <loc>https://itucode.github.io/site/sobre/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/arquitetura/</loc>
+    <loc>https://itucode.github.io/site/categories/arquitetura/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/arquitetura/</loc>
+    <loc>https://itucode.github.io/site/tags/arquitetura/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://itucode.github.io/site/categories/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/infraestrutura/</loc>
+    <loc>https://itucode.github.io/site/tags/infraestrutura/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/load-balancer-api-gateway/</loc>
+    <loc>https://itucode.github.io/site/posts/load-balancer-api-gateway/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://itucode.github.io/site/posts/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/system-design/</loc>
+    <loc>https://itucode.github.io/site/categories/system-design/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/system-design/</loc>
+    <loc>https://itucode.github.io/site/tags/system-design/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://itucode.github.io/site/tags/</loc>
     <lastmod>2025-03-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/load-balancer-principais-algoritmos/</loc>
+    <loc>https://itucode.github.io/site/posts/load-balancer-principais-algoritmos/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/escalabilidade/</loc>
+    <loc>https://itucode.github.io/site/tags/escalabilidade/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/load-balancer-quando-usar/</loc>
+    <loc>https://itucode.github.io/site/posts/load-balancer-quando-usar/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/obrigado/</loc>
+    <loc>https://itucode.github.io/site/obrigado/</loc>
   </url>
 </urlset>
