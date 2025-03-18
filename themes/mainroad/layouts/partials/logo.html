@@ -1,24 +1,21 @@
-{{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}
-{{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
-{{- $logoImage := .Site.Params.logo.image -}}
+{{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}  <!-- Título do logo -->
+{{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}  <!-- Subtítulo do logo -->
+{{- $logoImage := .Site.Params.logo.image -}}  <!-- Imagem do logo -->
 
-{{- if or $logoTitle $logoImage }}
-	{{/* Defined when logo is mixed (image + text) */}}
-	{{- $logoMix := and $logoImage $logoTitle -}}
-
-	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
+{{- if or $logoTitle $logoImage }} <!-- Verifica se existe título ou imagem para o logo -->
+	<div class="logo">
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
-			{{ with $logoImage -}}
+			{{ with $logoImage -}} <!-- Se imagem for fornecida, exibe a imagem do logo -->
 				<div class="logo__item logo__imagebox">
 					<img class="logo__img" src="{{ . | relURL }}">
 				</div>
 			{{- end -}}
-			{{ with $logoTitle -}}
+			{{ with $logoTitle -}} <!-- Se título for fornecido, exibe o título -->
 				<div class="logo__item logo__text">
-					<div class="logo__title">{{ . }}</div>
-					{{ with $logoSubtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
+					<div class="logo__title">{{ . }}</div>  <!-- Título do logo -->
 				</div>
 			{{- end }}
 		</a>
 	</div>
+	
 {{- end }}

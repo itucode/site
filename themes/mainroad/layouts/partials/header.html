@@ -1,6 +1,30 @@
+{{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle
+-}} {{ if .Site.Params.customCSS }} {{ range .Site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | relURL }}" />
+{{ end }} {{ end }}
+
 <header class="header">
 	<div class="container header__container">
-		{{ partial "logo.html" . }}
-		{{ partial "menu.html" . }}
+		<!-- Logo e Link para o LinkedIn -->
+		<div class="logo-social-container">
+			<div class="logo-container">{{ partial "logo.html" . }}</div>
+			<div class="social-links">
+				<a
+					href="https://www.linkedin.com/in/seu-perfil/"
+					target="_blank"
+					class="social-link"
+				>
+					<i class="fab fa-linkedin"></i>
+				</a>
+			</div>
+		</div>
+
+		{{ with $logoSubtitle }}
+		<!-- Se subtítulo for fornecido, exibe o subtítulo abaixo do logo -->
+		<div class="logo__tagline">{{ . }}</div>
+		{{ end }}
+
+		<!-- Menu -->
+		<div class="menu-container">{{ partial "menu.html" . }}</div>
 	</div>
 </header>
