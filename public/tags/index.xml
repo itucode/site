@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ItuCode</title>
-    <link>https://itucode.github.io/site/tags/</link>
+    <link>http://localhost:1313/site/tags/</link>
     <description>Recent content in Tags on ItuCode</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 05 Mar 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itucode.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura</title>
-      <link>https://itucode.github.io/site/tags/arquitetura/</link>
+      <link>http://localhost:1313/site/tags/arquitetura/</link>
       <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/tags/arquitetura/</guid>
+      <guid>http://localhost:1313/site/tags/arquitetura/</guid>
       <description></description>
     </item>
     <item>
       <title>Infraestrutura</title>
-      <link>https://itucode.github.io/site/tags/infraestrutura/</link>
+      <link>http://localhost:1313/site/tags/infraestrutura/</link>
       <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/tags/infraestrutura/</guid>
+      <guid>http://localhost:1313/site/tags/infraestrutura/</guid>
       <description></description>
     </item>
     <item>
       <title>System Design</title>
-      <link>https://itucode.github.io/site/tags/system-design/</link>
+      <link>http://localhost:1313/site/tags/system-design/</link>
       <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/tags/system-design/</guid>
+      <guid>http://localhost:1313/site/tags/system-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Escalabilidade</title>
-      <link>https://itucode.github.io/site/tags/escalabilidade/</link>
+      <link>http://localhost:1313/site/tags/escalabilidade/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/tags/escalabilidade/</guid>
+      <guid>http://localhost:1313/site/tags/escalabilidade/</guid>
       <description></description>
     </item>
   </channel>

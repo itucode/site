@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infraestrutura on ItuCode</title>
-    <link>https://itucode.github.io/site/tags/infraestrutura/</link>
+    <link>http://localhost:1313/site/tags/infraestrutura/</link>
     <description>Recent content in Infraestrutura on ItuCode</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 05 Mar 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itucode.github.io/site/tags/infraestrutura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site/tags/infraestrutura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Load Balancer: Antes ou Depois do API Gateway?</title>
-      <link>https://itucode.github.io/site/posts/load-balancer-api-gateway/</link>
+      <link>http://localhost:1313/site/posts/load-balancer-api-gateway/</link>
       <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/posts/load-balancer-api-gateway/</guid>
+      <guid>http://localhost:1313/site/posts/load-balancer-api-gateway/</guid>
       <description>Onde posicionar um Load Balancer na arquitetura de um sistema? Antes ou depois de um API Gateway? Essa decisão impacta escalabilidade, segurança e desempenho. Neste post, exploramos os cenários mais comuns e as melhores práticas para garantir uma arquitetura eficiente e resiliente.</description>
     </item>
     <item>
       <title>Algoritmos de Balanceamento de Carga: escolhendo o Ideal para Sua Arquitetura</title>
-      <link>https://itucode.github.io/site/posts/load-balancer-principais-algoritmos/</link>
+      <link>http://localhost:1313/site/posts/load-balancer-principais-algoritmos/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/posts/load-balancer-principais-algoritmos/</guid>
+      <guid>http://localhost:1313/site/posts/load-balancer-principais-algoritmos/</guid>
       <description>Descubra os principais algoritmos de balanceamento de carga e entenda como cada um impacta a performance, resiliência e escalabilidade de sistemas distribuídos.</description>
     </item>
     <item>
       <title>Quando Usar um Load Balancer e os Desafios de Implementação em System Design</title>
-      <link>https://itucode.github.io/site/posts/load-balancer-quando-usar/</link>
+      <link>http://localhost:1313/site/posts/load-balancer-quando-usar/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://itucode.github.io/site/posts/load-balancer-quando-usar/</guid>
+      <guid>http://localhost:1313/site/posts/load-balancer-quando-usar/</guid>
       <description>Entenda quando e por que implementar um load balancer em sistemas distribuídos, além dos principais desafios que você pode enfrentar durante a implementação.</description>
     </item>
   </channel>
