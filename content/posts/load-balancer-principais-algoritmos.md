@@ -1,7 +1,7 @@
 ---
 title: "Algoritmos de Balanceamento de Carga: escolhendo o Ideal para Sua Arquitetura"
 date: 2025-03-05
-author: "Seu Nome"
+author: "Marcelo Dias"
 categories: ["System Design", "Arquitetura"]
 draft: false
 tags: ["arquitetura", "system design", "infraestrutura"]

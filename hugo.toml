@@ -25,9 +25,9 @@ theme = "mainroad"
   path = 'page'
 
 [Params.author]
-    name = "ItuCoder"
+    name = "a ItuCode"
     avatar = "img/cyber-hacker.jpg" # Caminho relativo ao diretório "static"
-    bio = "Desenvolvedor de software apaixonado por tecnologia."
+    bio = "A ItuCode é uma comunidade de tecnologia e desenvolvimento de sistemas da cidade de Itu-SP. Nosso objetivo é conectar desenvolvedores, entusiastas da tecnologia e profissionais da área, promovendo o compartilhamento de conhecimento e experiências."
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

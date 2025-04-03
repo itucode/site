@@ -1,7 +1,7 @@
 ---
 title: "Load Balancer: Antes ou Depois do API Gateway?"
 date: 2025-03-05T12:00:00
-author: "Seu Nome"
+author: "Marcelo Dias"
 tags: ["arquitetura", "system design", "infraestrutura"]
 categories: ["System Design", "Arquitetura"]
 draft: false

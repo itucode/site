@@ -1,7 +1,7 @@
 ---
 title: "Quando Usar um Load Balancer e os Desafios de Implementação em System Design"
 date: 2025-03-05
-author: "Seu Nome"
+author: "Marcelo Dias"
 categories: ["System Design", "Arquitetura"]
 draft: false
 thumbnail: "img/placeholder.png" # Thumbnail image

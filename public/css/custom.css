@@ -136,3 +136,11 @@ button {
 button:hover {
   background-color: #0d3bb8;
 }
+
+img {
+  display: block;
+  margin: auto;
+  border: none;
+  background: transparent;
+  max-width: 100%;
+}
