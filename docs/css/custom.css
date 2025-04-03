@@ -121,7 +121,6 @@ textarea {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
-
 button {
   background-color: #1649ff;
   color: white;
@@ -132,7 +131,13 @@ button {
   border-radius: 5px;
   width: 100%;
 }
-
 button:hover {
   background-color: #0d3bb8;
+}
+img {
+  display: block;
+  margin: auto;
+  border: none;
+  background: transparent;
+  max-width: 100%;
 }
